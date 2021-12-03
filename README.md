@@ -1,5 +1,5 @@
 # tourist-destination-final
-Application that you can upload, edit, and delete an image
+Application that you can upload, edit, and delete files. This app aims to make a list for traveling destination
 
 <img src="client/src/Image/Capture.JPG" width="900" />
 
