@@ -7,4 +7,4 @@ Application that you can upload, edit, and delete an image
 NodeJS, Express, ReactJs, Redux-thunk, MongoBD database
 
 ## Visit the link bellow to see the app
-https://stupefied-meninsky-1b6075.netlify.app/
+tourist-destination.rauf-fullstack.com
