@@ -7,4 +7,4 @@ Application that you can upload, edit, and delete an image
 NodeJS, Express, ReactJs, Redux-thunk, MongoBD database
 
 ## Visit the link bellow to see the app
-tourist-destination.rauf-fullstack.com
+http://tourist-destination.rauf-fullstack.com
